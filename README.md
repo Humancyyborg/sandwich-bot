@@ -1,4 +1,9 @@
 
+We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+
+For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
+
+
 <h1 align="center">
   <br>
   <img src="https://cdn.discordapp.com/attachments/1057976249756176414/1143799272098242577/0xrla_cartoon_cute_evil_robot_eating_a_subway_sandwich_with_dol_0c3ed251-eaf7-4fbc-9026-ad6c6f186dde.png" alt="Sandwich BOT" width="400">
